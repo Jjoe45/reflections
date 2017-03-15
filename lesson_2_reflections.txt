@@ -17,3 +17,7 @@ A: When you need to make a major change than you're unsure about, like a potenti
 Q: How do the diagrams help you visualize the branch structure?
 
 A: Lets you see what the log of each branch would be and if your current commit file will go anywhere or be lost
+
+Q: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+A: The files become the parents of the new merged file. The files are then merged together by git
