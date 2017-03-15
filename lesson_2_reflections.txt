@@ -9,3 +9,7 @@ A: adds an intermediary before commit your files so you don't have to add everyt
 Q: How can you use the staging area to make sure you have one commit per logical change?
 
 A: use git diff to compare working directory and staging area
+
+Q: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+A: When you need to make a major change than you're unsure about, like a potential new feature that you may or not implement. Or you want to use to add a different verison of a program but still keep the orginal intact (ie a new language version). Branches are helpful because they are kept seperate from the orginal branch unless you decide to merge them.
