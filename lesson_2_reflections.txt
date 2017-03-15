@@ -21,3 +21,7 @@ A: Lets you see what the log of each branch would be and if your current commit 
 Q: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 A: The files become the parents of the new merged file. The files are then merged together by git
+
+Q:What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+A: It speeds things up and lets you know if there will be a conflict and allows you to resolve it.
