@@ -13,3 +13,7 @@ A: use git diff to compare working directory and staging area
 Q: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 A: When you need to make a major change than you're unsure about, like a potential new feature that you may or not implement. Or you want to use to add a different verison of a program but still keep the orginal intact (ie a new language version). Branches are helpful because they are kept seperate from the orginal branch unless you decide to merge them.
+
+Q: How do the diagrams help you visualize the branch structure?
+
+A: Lets you see what the log of each branch would be and if your current commit file will go anywhere or be lost
