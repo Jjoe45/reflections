@@ -17,3 +17,7 @@ A: You can see any changes that have been made with the update or any potential 
 q: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 A: Send through email or some other file sharing system. It would be much more difficult to manage multiple people wokring on the same file since updating files would be much more tedious.
+
+q: When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+a: when you're collaborating with other people and you want to make a change and be sure that it isn't conflicting with other people.
