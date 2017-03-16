@@ -9,3 +9,7 @@ A: Some updates you might not be interested in or they might interfere with a pr
 q: Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 A: Forks are "clones" of another users branch but by utilizing them you still give them credit, but they are just a clone that will not affect the orginal users branch(es)
+
+Q: What is the benefit of having a copy of the last known state of the remote stored locally?
+
+A: You can see any changes that have been made with the update or any potential conflicts
