@@ -13,3 +13,7 @@ A: Forks are "clones" of another users branch but by utilizing them you still gi
 Q: What is the benefit of having a copy of the last known state of the remote stored locally?
 
 A: You can see any changes that have been made with the update or any potential conflicts
+
+q: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+A: Send through email or some other file sharing system. It would be much more difficult to manage multiple people wokring on the same file since updating files would be much more tedious.
